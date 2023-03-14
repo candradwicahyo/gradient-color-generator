@@ -1,0 +1,15 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: royalblue;
+}
+
+.box {
+  position: relative;
+  width: 100%;
+  height: 200px;
+  background: #f4f7fe;
+  border-radius: 8px;
+}
