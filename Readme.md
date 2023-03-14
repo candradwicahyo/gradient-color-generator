@@ -34,4 +34,4 @@ git clone https://github.com/candradwicahyo/gradient-color-generator.git
 
 ![preview](https://github.com/candradwicahyo/gradient-color-generator/blob/master/image.jpg)
 
-[tekan link ini](https://candradwicahyo.github.io/gradient-color-generator)
+[tekan link ini](https://candradwicahyo.github.io/gradient-color-generator) untuk mencoba demo
